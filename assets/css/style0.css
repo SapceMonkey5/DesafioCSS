@@ -1,0 +1,43 @@
+body{
+    background-color: cyan;
+}
+.header{
+         height: 7em;
+         padding: 2em;
+         background-image: url("../imgs/fondo.jpg");
+         background-size: cover;
+         background-position: center;
+         font-size: 2em;
+
+         
+    
+}
+.productos{
+         width: 80%;
+         margin: auto;
+        
+        }
+.productos td{
+         width: 60%;
+         padding: 4em;
+         border-bottom: 3px solid white;        
+
+        }
+.productos img{
+         width: 50%;
+         border: solid 20px black;
+        }
+.footer{
+         height: 3em;
+         line-height: 3em;
+         background-color: rgb(1, 10, 138);
+         color: white;
+         text-align: center;
+         font-weight: 900;
+         
+    
+}
+
+    
+    
+    
